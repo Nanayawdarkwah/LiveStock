@@ -1,6 +1,9 @@
 # LiveStock
 A website integrated with a GPS-enabled collar for liveStock(herd animals) that allows herders to set virtual boundaries (geofences), monitor animal health, discuss topic on livestock via a forum ,advertise your business, get statistical data receive alerts if animals stray.
 
+##Features
+-
+
 
 <img width="3296" height="2547" alt="station assembly" src="https://github.com/user-attachments/assets/58b6a1a7-5ede-463d-b2fd-1af0bd50c028" />
 <img width="3296" height="2547" alt="station assembly (2)" src="https://github.com/user-attachments/assets/eca2819d-da59-41cf-85d8-38a621e6890a" />
